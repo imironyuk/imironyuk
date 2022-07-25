@@ -17,7 +17,7 @@
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="AWS" width="35px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png"/>
 
-<img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"/>
+<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"/>
 <img align="left" alt="Lin" width="35px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png"/>
 <img align="left" alt="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"/>
 <img align="left" alt="Postgres" width="40px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/>
