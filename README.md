@@ -17,12 +17,10 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="AWS" width="35px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png"/>
-<img align="left" alt="Ansible
-" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png"/>
+<img align="left" alt="Ansible" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png"/>
 <img align="left" alt="Jenkins" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"/>
 <img align="left" alt="Lin" width="35px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png"/> 
-[<img align="left" alt="imironyuk | docker" width="45px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" />][docker]
-
+<img align="left" alt="docker" width="45px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq"/>
 <img align="left" alt="Postgres" width="45px" src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png"/>
 <img align="left" alt="Python" width="35px" src="https://static.wixstatic.com/media/1565bf_14b846797c444ef38993d79227ce0c59~mv2.png/v1/fill/w_230,h_228,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Python-for-Data-Science_Icon.png" />
 
