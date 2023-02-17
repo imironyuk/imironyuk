@@ -1,4 +1,5 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=39F730&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&repeat=%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&width=300&height=40&lines=Hi+there+%F0%9F%91%8B;Good+afternoon!%F0%9F%98%87;Nice+to+see+you!%F0%9F%98%89;You+are+welcome!%F0%9F%98%8E" alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=100&color=39F730&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&multiline=true&repeat=%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&height=65&lines=-+%F0%9F%92%AA+I+like+to+write+code;-+%F0%9F%8E%89+I+love+to+play);-+%F0%9F%A5%85+I+am+constantly+learning+new+things" alt="Typing SVG" /></a>
 ### Connect:
 
